@@ -1,6 +1,6 @@
-eeak Links: [Контроллер CH579. Начинаем работу и избавляемся от закрытой сетевой библиотеки](https://habr.com/ru/post/710082/comments/#comment_25109782)
-[Stm32. Переходим на современный C++. Часть 1. Настройка рабочего пространства.](https://microtechnics.ru/profilegrid_blogs/stm32-perehodim-na-sovremennyj-c-chast-1-nastrojka-rabochego-prostranstva/)
-[Шаблоны C++ для микроконтроллеров](https://pikabu.ru/story/shablonyi_c_dlya_mikrokontrollerov_7969252)
+eeak Links: [Контроллер CH579. Начинаем работу и избавляемся от закрытой сетевой библиотеки](https://habr.com/ru/post/710082/comments/#comment_25109782)  
+[Stm32. Переходим на современный C++. Часть 1. Настройка рабочего пространства.](https://microtechnics.ru/profilegrid_blogs/stm32-perehodim-na-sovremennyj-c-chast-1-nastrojka-rabochego-prostranstva/)  
+[Шаблоны C++ для микроконтроллеров](https://pikabu.ru/story/shablonyi_c_dlya_mikrokontrollerov_7969252)  
 # Zhele
 Framework for Stm32 MCU on C++ templates. Project based on "mcucpp" by Konstantin Chizhov.
 Support: I created public group in [telegram](https://t.me/stm32_zhele), where I'll try help everyone with using the framework. Sorry, but I can answer only on russian:)
