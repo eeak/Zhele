@@ -1,6 +1,6 @@
-[](https://habr.com/ru/post/710082/comments/#comment_25109782)
-[](https://microtechnics.ru/profilegrid_blogs/stm32-perehodim-na-sovremennyj-c-chast-1-nastrojka-rabochego-prostranstva/)
-[](https://pikabu.ru/story/shablonyi_c_dlya_mikrokontrollerov_7969252)
+[1](https://habr.com/ru/post/710082/comments/#comment_25109782)
+[2](https://microtechnics.ru/profilegrid_blogs/stm32-perehodim-na-sovremennyj-c-chast-1-nastrojka-rabochego-prostranstva/)
+[3](https://pikabu.ru/story/shablonyi_c_dlya_mikrokontrollerov_7969252)
 # Zhele
 Framework for Stm32 MCU on C++ templates. Project based on "mcucpp" by Konstantin Chizhov.
 Support: I created public group in [telegram](https://t.me/stm32_zhele), where I'll try help everyone with using the framework. Sorry, but I can answer only on russian:)
